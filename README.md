@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 ### ⚡ About me: I am a student at Fatec - Ribeirão Preto and I'm learning programming
 -->
+
+#### 🌱 I’m currently learning Flutter
+#### ⚡ About me: I am a student at Fatec - Ribeirão Preto and I'm learning programming
+
+### Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
