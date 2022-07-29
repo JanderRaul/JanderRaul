@@ -19,8 +19,6 @@
 </div>
 
 ![Snake animation](https://github.com/JanderRaul/JanderRaul/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <div>
 <a href="https://github.com/JanderRaul">
