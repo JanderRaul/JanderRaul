@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 ### ⚡ About me: I am a student at Fatec - Ribeirão Preto and I'm learning programming
 -->
 
-#### 🌱 I’m currently learning Flutter
-#### ⚡ About me: I am a student at Fatec - Ribeirão Preto and I'm learning programming
+#### 🌱 Atualmente estou estudando Flutter / Dart
+#### ⚡ Sobre mim: Estou estudando programação e sou aluno da Fatec - Ribeirão Preto
 
 ### Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
